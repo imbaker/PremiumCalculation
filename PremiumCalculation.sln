@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumCalculation", "Premi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PremiumCalculation.Tests", "PremiumCalculation.Tests\PremiumCalculation.Tests.csproj", "{EE447C16-1688-4156-8893-0D1419177523}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{A6F39C0B-AEA9-4539-BBAF-78422310C6F2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\Calculations.xlsx = ..\..\..\Desktop\Calculations.xlsx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
